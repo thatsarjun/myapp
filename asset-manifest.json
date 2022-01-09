@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arjun/static/css/main.e6c13ad2.css",
+    "main.js": "/arjun/static/js/main.795afa67.js",
+    "index.html": "/arjun/index.html",
+    "main.e6c13ad2.css.map": "/arjun/static/css/main.e6c13ad2.css.map",
+    "main.795afa67.js.map": "/arjun/static/js/main.795afa67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.795afa67.js"
+  ]
+}
